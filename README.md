@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Java, Assembly Language and Python
 - 💞️ I’m looking to collaborate on coding assignments
 - 📫 How to reach me heitorgbuscariolo@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Table Tennis for 11 years
 
 <!---

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding assignments
 - 📫 How to reach me heitorgbuscariolo@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play Table Tennis for 11 years
+- ⚡ Fun fact: I have been playing Table Tennis for 11 years
 
 <!---
 HeitorBuscariolo/HeitorBuscariolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
